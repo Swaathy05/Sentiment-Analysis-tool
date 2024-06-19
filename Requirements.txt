@@ -1,0 +1,34 @@
+Requirements
+
+
+pandas
+SpeechRecognition
+scikit-surprise
+textblob
+numpy
+pygame
+matplotlib
+seaborn
+scikit-learn
+
+
+1. pandas: For data manipulation and analysis.
+ 
+2. speech_recognition: For converting speech to text.
+
+3. scikit-surprise: For building and testing recommendation systems.
+ 
+4. textblob: For natural language processing tasks such as sentiment analysis.
+  
+5. numpy: For numerical computing with Python.
+  
+6. pygame: For multimedia applications like handling audio (optional for audio visualization).
+
+7. matplotlib: For creating static, animated, and interactive visualizations in Python.
+   
+8. seaborn: For statistical data visualization based on matplotlib.
+ 
+9. scikit-learn: For machine learning tasks like data preprocessing and dimensionality reduction.
+
+
+
